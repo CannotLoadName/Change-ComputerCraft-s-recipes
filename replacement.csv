@@ -1,0 +1,6 @@
+{"type":"forge:ore_dict","ore":"ingotCopper"}
+{"type":"forge:ore_dict","ore":"blockCopper"}
+{"type": "minecraft:item","item": "projectred-core:resource_item","data": 320}
+{"type": "minecraft:item","item": "projectred-core:resource_item","data": 341}
+{"type": "minecraft:item","item": "projectred-core:resource_item","data": 402}
+{"type": "minecraft:item","item": "projectred-expansion:charged_battery"}

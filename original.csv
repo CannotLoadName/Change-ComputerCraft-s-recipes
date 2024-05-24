@@ -1,0 +1,6 @@
+{"type":"forge:ore_dict","ore":"ingotGold"}
+{"type":"forge:ore_dict","ore":"blockGold"}
+{"type":"forge:ore_dict","ore":"dustRedstone"}
+{"type":"forge:ore_dict","ore":"paneGlass"}
+{"type":"forge:ore_dict","ore":"enderpearl"}
+{"item":"minecraft:golden_apple","data":0}
